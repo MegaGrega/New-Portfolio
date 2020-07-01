@@ -145,6 +145,7 @@
     margin: 1rem;
   
   }
+
   
   /* Small screens */
   @media only screen and (max-width: 600px) {
@@ -187,7 +188,10 @@
       }  
       .weather-dash{
         margin-bottom: 11vh;  
-    }   
+    }  
+    .contact{
+        height: 100vh;
+    } 
   }
  
   
