@@ -233,7 +233,12 @@
       }   
     .weather-dash{
         margin-bottom: 5rem;
-    }  
+    }
+    .social-icon{
+        height: 10rem;
+        width: 10rem;
+        float: none;
+    } 
 
   }
 
@@ -283,4 +288,7 @@
     }
   }
   
-
+p{
+    text-align: left;
+    margin: 1rem;
+}
